@@ -25,7 +25,7 @@
   "url": "https://github.com/Jax-PF2/rogue-test",
   "manifest": "https://raw.githubusercontent.com/Jax-PF2/rogue-test/master/module.json",
   "download": "https://github.com/Jax-PF2/rogue-test/archive/refs/heads/main.zip",
-  "id": "jam-and-jax-npc-rogues,
+  "id": "jam-and-jax-npc-rogues",
   "authors": [
     {
       "name": "Jamzilla (Jamie Trollop) and Jax (Paul Steen)",
