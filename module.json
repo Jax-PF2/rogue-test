@@ -1,0 +1,51 @@
+{
+  "title": "Jam and Jax's NPC Index: Rogues",
+  "description": "Rogue NPCs have arrived on the battlefield. Now with images and tokens!",
+  "version": "1.00",
+  "packs": [
+    {
+      "label": "Jam and Jax NPC Rogues",
+      "type": "Actor",
+      "name": "rogue",
+      "path": "/packs/rogue.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Jam and Jax NPC Rogue Abilities",
+      "type": "Item",
+      "name": "rogue-items",
+      "path": "/packs/rogue-items.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    }
+	],
+  "url": "https://github.com/Jax-PF2/rogue-test",
+  "manifest": "https://raw.githubusercontent.com/Jax-PF2/rogue-test/master/module.json",
+  "download": "https://github.com/Jax-PF2/rogue-test/archive/refs/heads/main.zip",
+  "id": "jam-and-jax-npc-rogues,
+  "authors": [
+    {
+      "name": "Jamzilla (Jamie Trollop) and Jax (Paul Steen)",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "4.7.4",
+          "verified": "4.12.9"
+        }
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "10.291",
+    "verified": "10.291"
+  }
+}
